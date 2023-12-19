@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T12:33:49.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="e0Vra84HIN0BKZs6JyVT" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T12:56:29.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="I_HYPfdYPdIoUoR4GJZh" version="22.1.11" type="github">
   <diagram name="第 1 页" id="ExTiOvINmQSWUFrJPMDl">
-    <mxGraphModel dx="1426" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2610" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SdTUQV1muve1M0gxpiIX-46" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="2035" width="730" height="825" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-39" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="2060" width="730" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="yBqRNHplVpy1pxyJX8kC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="30" y="80" width="100" height="240" as="geometry" />
         </mxCell>
@@ -371,6 +377,129 @@
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-20" value="画布工具" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="1260" y="1410" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="2015" as="sourcePoint" />
+            <mxPoint x="210" y="2165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-22" value="打开文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="1960" width="730" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-23" value="" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="2170" width="730" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-24" value="React-Pdf" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165.62" y="2180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="2220" width="130" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2220" width="130" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="225.62" y="2220" width="390" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-28" value="目录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="2230" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-29" value="（调用API，有目录直接渲染）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="2270" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-30" value="缩略图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="2230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-31" value="内容区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385.62" y="2230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="77.5" y="2270" width="115" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-33" value="虚拟滚动组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2275" width="90" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-34" value="&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="235.62" y="2260" width="370" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-35" value="使用自定义虚拟滚动处理页面渲染" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275.62" y="2270" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-36" value="画布组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="255.62" y="2310" width="340" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-40" value="本地图片接口：返回转换后的pdf图片或者转换当前页pdf至图片并返回" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2075" width="425" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.288;entryY=1.034;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="SdTUQV1muve1M0gxpiIX-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="2220" as="sourcePoint" />
+            <mxPoint x="160" y="2170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-42" value="调用图片接口展示图片" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="2130" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-44" value="调用图片接口展示图片" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="2130" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.288;entryY=1.034;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="458.95" y="2218" as="sourcePoint" />
+            <mxPoint x="458.95" y="2120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="2050" width="250" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-48" value="pdf页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2075" width="190" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-49" value="pdf页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2320" width="190" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-50" value="pdf页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2570" width="190" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="2050" width="250" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-56" value="画布pdf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="2075" width="190" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-57" value="画布pdf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="2320" width="190" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-58" value="画布pdf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="2570" width="190" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.997;entryY=0.455;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.01;exitY=0.453;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-55" target="SdTUQV1muve1M0gxpiIX-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="2400" as="sourcePoint" />
+            <mxPoint x="1090" y="2350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-61" value="合并" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="2357.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="2057.5" width="250" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-63" value="画布pdf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1684" y="2082.5" width="190" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-64" value="画布pdf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1684" y="2327.5" width="190" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-65" value="画布pdf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1684" y="2577.5" width="190" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-46" target="SdTUQV1muve1M0gxpiIX-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1110" y="2340" as="sourcePoint" />
+            <mxPoint x="1160" y="2290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
