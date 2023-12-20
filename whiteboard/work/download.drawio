@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T08:10:36.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="EGBXjFSltcbOO4-7yrec" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T08:14:25.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="nFOZ-fUJ6IBs_lD7-nTD" version="22.1.11" type="github">
   <diagram name="第 1 页" id="ExTiOvINmQSWUFrJPMDl">
-    <mxGraphModel dx="2583" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="2040" dy="690" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -565,31 +565,49 @@
           <mxGeometry x="760" y="3655" width="910" height="395" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-125" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="760" y="3480" width="927" height="80" as="geometry" />
+          <mxGeometry x="760" y="3470" width="920" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-126" value="业务层调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="3507.5" width="215" height="30" as="geometry" />
+          <mxGeometry x="1100" y="3495" width="215" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-127" value="下载模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="3668.75" width="400" height="32.5" as="geometry" />
+          <mxGeometry x="1015" y="3668.75" width="400" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-128" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-128" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="820" y="3715" width="820" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-129" value="下载接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-129" value="下载接口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="820" y="3945" width="820" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-130" value="下载队列" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1160" y="3740" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-131" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-131" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="820" y="3820" width="380" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-132" value="已暂停的下载任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-132" value="已暂停的下载任务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1230" y="3820" width="410" height="99" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-133" value="当前下载任务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="980" y="3859" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-134" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.23;exitY=1.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-125">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1350" y="3780" as="sourcePoint" />
+            <mxPoint x="970" y="3650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-135" value="下发下载任务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="995" y="3590" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-136" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.743;entryY=1.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-124" target="SdTUQV1muve1M0gxpiIX-125">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1430" y="3555" as="sourcePoint" />
+            <mxPoint x="1440" y="3560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-137" value="上报下载状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1447" y="3592" width="135" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
