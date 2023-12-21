@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T09:21:20.283Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="X_-4meOn1l65hajDZpIt" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T09:21:51.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="r_Xfbxe-dYqSxo94AjFs" version="22.1.11" type="github">
   <diagram name="第 1 页" id="ExTiOvINmQSWUFrJPMDl">
-    <mxGraphModel dx="3652" dy="2386" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="15060" dy="8730" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -809,7 +809,7 @@
           <mxGeometry x="2010" y="-345" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-233" value="终端下载全量pdf文件，转图片流程" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="2590" y="-515" width="275" height="40" as="geometry" />
+          <mxGeometry x="2525" y="-367" width="275" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-234" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 15px;&quot;&gt;文件调度中心&lt;/span&gt;&lt;br style=&quot;color: rgb(255, 255, 255); font-size: 15px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 15px;&quot;&gt;负责文件信息的收集和pdf文件转换的调度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="2470" y="-215" width="280" height="160" as="geometry" />
@@ -892,7 +892,7 @@
           <mxGeometry x="1950" y="505" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-268" value="保存pdf文件转图片流程" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="2550" y="375" width="275" height="40" as="geometry" />
+          <mxGeometry x="2448" y="509" width="275" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-269" value="文件调度中心&lt;br style=&quot;font-size: 15px;&quot;&gt;负责文件信息的收集和pdf文件转换的调度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="2410" y="635" width="280" height="160" as="geometry" />
@@ -941,67 +941,67 @@
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-279" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-291" target="SdTUQV1muve1M0gxpiIX-283">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4990" y="225" as="targetPoint" />
-            <mxPoint x="4895" y="225" as="sourcePoint" />
+            <mxPoint x="4722" y="-227" as="targetPoint" />
+            <mxPoint x="4627" y="-227" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-280" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-281">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4285" y="170" as="targetPoint" />
+            <mxPoint x="4017" y="-282" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-281" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;打开pdf文件&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="4175" width="220" height="80" as="geometry" />
+          <mxGeometry x="3907" y="-452" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-282" value="打开pdf文件流程" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="4593" y="5" width="275" height="40" as="geometry" />
+          <mxGeometry x="4325" y="-447" width="275" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-283" value="文件调度中心&lt;br style=&quot;font-size: 15px;&quot;&gt;负责文件信息的收集和pdf文件转换的调度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="4905" y="157.5" width="280" height="160" as="geometry" />
+          <mxGeometry x="4637" y="-294.5" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-284" value="正常加载本地图片,展示pdf" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="4175" y="385" width="220" height="80" as="geometry" />
+          <mxGeometry x="3907" y="-67" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-285" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-289" target="SdTUQV1muve1M0gxpiIX-284">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4285" y="285" as="sourcePoint" />
-            <mxPoint x="4645" y="255" as="targetPoint" />
+            <mxPoint x="4017" y="-167" as="sourcePoint" />
+            <mxPoint x="4377" y="-197" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-286" value="同步转换后的图片信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="4745" y="195" width="120" height="30" as="geometry" />
+          <mxGeometry x="4477" y="-257" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-287" value="正常展示pdf" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="4165" y="585" width="220" height="80" as="geometry" />
+          <mxGeometry x="3897" y="133" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-288" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-289" target="SdTUQV1muve1M0gxpiIX-291">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-289" value="当前文件对应的页面是否有对应的图片" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=15;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="4210" y="170" width="150" height="135" as="geometry" />
+          <mxGeometry x="3942" y="-282" width="150" height="135" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-290" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="4165" y="325" width="120" height="30" as="geometry" />
+          <mxGeometry x="3897" y="-127" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-291" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;终端同步转换当前页的pdf到图片,并保存到对应的文件，将地址返回给web&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="4465" y="208.75" width="220" height="57.5" as="geometry" />
+          <mxGeometry x="4197" y="-243.25" width="220" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-292" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="4345" y="195" width="120" height="30" as="geometry" />
+          <mxGeometry x="4077" y="-257" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-293" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-291" target="SdTUQV1muve1M0gxpiIX-284">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4485" y="335" as="sourcePoint" />
-            <mxPoint x="4575" y="435" as="targetPoint" />
+            <mxPoint x="4217" y="-117" as="sourcePoint" />
+            <mxPoint x="4307" y="-17" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="4575" y="425" />
+              <mxPoint x="4307" y="-27" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-294" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.551;entryY=0.001;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" target="SdTUQV1muve1M0gxpiIX-287">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4285" y="465" as="sourcePoint" />
-            <mxPoint x="4285" y="545" as="targetPoint" />
+            <mxPoint x="4017" y="13" as="sourcePoint" />
+            <mxPoint x="4017" y="93" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
