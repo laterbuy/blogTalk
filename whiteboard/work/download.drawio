@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T09:16:14.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="S8fUqOGN1OXTRSg7fb5b" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T09:16:31.546Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="seviOQC3CAqZTuWOsFAK" version="22.1.11" type="github">
   <diagram name="第 1 页" id="ExTiOvINmQSWUFrJPMDl">
     <mxGraphModel dx="2478" dy="1733" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -788,48 +788,48 @@
         <mxCell id="SdTUQV1muve1M0gxpiIX-226" value="合成批注PDF到原文件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="978" y="3905.5" width="232" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-227" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-229" target="SdTUQV1muve1M0gxpiIX-242">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-227" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-229" target="SdTUQV1muve1M0gxpiIX-242">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-228" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-229">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-228" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-229">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3185" y="-134.99999999999977" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-229" value="是否有未转换的pdf文件" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-229" value="是否有未转换的pdf文件" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=15;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="2940" y="-202.5" width="150" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-230" value="联网到会议登录页，同步Electron开始下载议题文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-230" value="联网到会议登录页，同步Electron开始下载议题文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="2010" y="-175" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-231" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-232" target="SdTUQV1muve1M0gxpiIX-230">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-231" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-232" target="SdTUQV1muve1M0gxpiIX-230">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-232" value="&lt;span style=&quot;&quot;&gt;终端启动&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-232" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;终端启动&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2010" y="-345" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-233" value="终端下载全量pdf文件，转图片流程" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2590" y="-515" width="275" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-234" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;文件调度中心&lt;/span&gt;&lt;br style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;负责文件信息的收集和pdf文件转换的调度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-234" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 15px;&quot;&gt;文件调度中心&lt;/span&gt;&lt;br style=&quot;color: rgb(255, 255, 255); font-size: 15px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 15px;&quot;&gt;负责文件信息的收集和pdf文件转换的调度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="2470" y="-215" width="280" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-235" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-230" target="SdTUQV1muve1M0gxpiIX-234">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-235" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-230" target="SdTUQV1muve1M0gxpiIX-234">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2240" y="-15" as="sourcePoint" />
             <mxPoint x="2290" y="-65" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-236" value="进入页面后下载批注文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-236" value="进入页面后下载批注文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="2010" y="5" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-237" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-230" target="SdTUQV1muve1M0gxpiIX-236">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-237" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-230" target="SdTUQV1muve1M0gxpiIX-236">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2240" y="-125" as="sourcePoint" />
             <mxPoint x="2480" y="-125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-238" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.543;entryY=1.019;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-236" target="SdTUQV1muve1M0gxpiIX-234">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-238" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.543;entryY=1.019;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-236" target="SdTUQV1muve1M0gxpiIX-234">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2130" y="-85" as="sourcePoint" />
             <mxPoint x="2130" y="15" as="targetPoint" />
@@ -838,22 +838,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-239" value="通知下载的文件信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-239" value="通知下载的文件信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2300" y="-175" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-240" value="通知下载的文件信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-240" value="通知下载的文件信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2330" y="5" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-241" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-234" target="SdTUQV1muve1M0gxpiIX-229">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-241" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-234" target="SdTUQV1muve1M0gxpiIX-229">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2480" y="155" as="sourcePoint" />
             <mxPoint x="2530" y="105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-242" value="终端另起一个进程转图片" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-242" value="终端另起一个进程转图片" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2930" y="95" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-243" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-243" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2927" y="125" as="sourcePoint" />
             <mxPoint x="2624" y="-50" as="targetPoint" />
@@ -862,13 +862,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-244" value="同步转换后的图片信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-244" value="同步转换后的图片信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2740" y="75" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-245" value="&lt;span style=&quot;&quot;&gt;转换结束&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-245" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;转换结束&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="3190" y="-175" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-246" value="通知终端开始转换" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SdTUQV1muve1M0gxpiIX-246" value="通知终端开始转换" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2935" y="-35" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-263" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.015;exitY=0.453;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-269" target="SdTUQV1muve1M0gxpiIX-274">
