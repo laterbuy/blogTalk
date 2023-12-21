@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T10:16:17.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="dFHfR-vSFlkiawVxHEkB" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T01:05:38.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="9CQ1-zsWPfDUB7V8G6pu" version="22.1.11" type="github">
   <diagram name="第 1 页" id="ExTiOvINmQSWUFrJPMDl">
-    <mxGraphModel dx="3370" dy="1410" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="2531" dy="933" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SdTUQV1muve1M0gxpiIX-164" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1733" y="997" width="883" height="122" as="geometry" />
+          <mxGeometry x="2357" y="1880" width="883" height="122" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-46" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="745" y="2035" width="730" height="825" as="geometry" />
@@ -565,133 +565,106 @@
           <mxGeometry x="-413" y="3280" width="343" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-124" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="760" y="3655" width="910" height="395" as="geometry" />
-        </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-125" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="760" y="3470" width="920" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-126" value="业务层调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="3495" width="215" height="30" as="geometry" />
+          <mxGeometry x="2366" y="2327.5" width="884" height="395" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-127" value="下载模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="3668.75" width="400" height="32.5" as="geometry" />
+          <mxGeometry x="2599" y="2341.25" width="400" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-128" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="820" y="3715" width="820" height="80" as="geometry" />
+          <mxGeometry x="2404" y="2387.5" width="820" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-129" value="下载接口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="820" y="3945" width="820" height="70" as="geometry" />
+          <mxGeometry x="2404" y="2617.5" width="820" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-130" value="下载队列" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="3740" width="150" height="30" as="geometry" />
+          <mxGeometry x="2744" y="2412.5" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-131" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="820" y="3820" width="380" height="99" as="geometry" />
+          <mxGeometry x="2404" y="2492.5" width="380" height="99" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-132" value="已暂停的下载任务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="3820" width="410" height="99" as="geometry" />
+          <mxGeometry x="2814" y="2492.5" width="410" height="99" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-133" value="当前下载任务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="3859" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-134" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.23;exitY=1.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-125">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1350" y="3780" as="sourcePoint" />
-            <mxPoint x="970" y="3650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-135" value="下发下载任务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="995" y="3590" width="135" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-136" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.743;entryY=1.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-124" target="SdTUQV1muve1M0gxpiIX-125">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1430" y="3555" as="sourcePoint" />
-            <mxPoint x="1440" y="3560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-137" value="上报下载状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1447" y="3592" width="135" height="30" as="geometry" />
+          <mxGeometry x="2564" y="2531.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-140" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="1206" width="877" height="166" as="geometry" />
+          <mxGeometry x="2364" y="2089" width="877" height="166" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-142" value="批量下载接口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1755.5" y="1222.25" width="220.5" height="46.75" as="geometry" />
+          <mxGeometry x="2379.5" y="2105.25" width="220.5" height="46.75" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-144" value="根据文件id获取文件信息接口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2006" y="1222.25" width="269" height="47.75" as="geometry" />
+          <mxGeometry x="2630" y="2105.25" width="269" height="47.75" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-146" value="全量文件信息接口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2315" y="1222.25" width="280.5" height="48.75" as="geometry" />
+          <mxGeometry x="2939" y="2105.25" width="280.5" height="48.75" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-149" value="文件列表展示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2346" y="1052" width="253" height="51" as="geometry" />
+          <mxGeometry x="2970" y="1935" width="253" height="51" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-150" value="文件预览，文件外部打开、文件下载进度展示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2086" y="1051" width="250" height="50" as="geometry" />
+          <mxGeometry x="2710" y="1934" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-151" value="初始化文件下载，会中上传文件下载，U盘导入文件下载" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1753.5" y="1053" width="315" height="49" as="geometry" />
+          <mxGeometry x="2377.5" y="1936" width="315" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-152" value="维护下载队列信息，下载文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2315" y="1307" width="284" height="49" as="geometry" />
+          <mxGeometry x="2939" y="2190" width="284" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-153" value="负责收集文件的下载进度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2006.5" y="1307" width="268.5" height="49" as="geometry" />
+          <mxGeometry x="2630.5" y="2190" width="268.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-155" value="负责收集pdf转换完成后的图片信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1755.5" y="1307" width="221.5" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="SdTUQV1muve1M0gxpiIX-158" value="下载模块" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1742.63" y="1440" width="873.37" height="64" as="geometry" />
+          <mxGeometry x="2379.5" y="2190" width="221.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-159" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1889" y="1380" as="sourcePoint" />
-            <mxPoint x="1889" y="1437" as="targetPoint" />
+            <mxPoint x="2513" y="2263" as="sourcePoint" />
+            <mxPoint x="2513" y="2320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-160" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2448" y="1430" as="sourcePoint" />
-            <mxPoint x="2448" y="1380" as="targetPoint" />
+            <mxPoint x="3072" y="2313" as="sourcePoint" />
+            <mxPoint x="3072" y="2263" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-161" value="下发下载任务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="1391" width="188" height="30" as="geometry" />
+          <mxGeometry x="2464" y="2274" width="188" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-162" value="上报下载信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2411" y="1391" width="188" height="30" as="geometry" />
+          <mxGeometry x="3035" y="2274" width="188" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-166" value="业务层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2112" y="1009" width="60" height="30" as="geometry" />
+          <mxGeometry x="2736" y="1892" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-167" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1881" y="1127" as="sourcePoint" />
-            <mxPoint x="1881" y="1195" as="targetPoint" />
+            <mxPoint x="2505" y="2010" as="sourcePoint" />
+            <mxPoint x="2505" y="2078" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-168" value="批量下载" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="1147" width="67" height="30" as="geometry" />
+          <mxGeometry x="2514" y="2030" width="67" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-170" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2199" y="1128" as="sourcePoint" />
-            <mxPoint x="2199" y="1196" as="targetPoint" />
+            <mxPoint x="2823" y="2011" as="sourcePoint" />
+            <mxPoint x="2823" y="2079" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-171" value="获取单个文件下载进度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2208" y="1148" width="141" height="23" as="geometry" />
+          <mxGeometry x="2832" y="2031" width="141" height="23" as="geometry" />
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-172" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2464" y="1129" as="sourcePoint" />
-            <mxPoint x="2464" y="1197" as="targetPoint" />
+            <mxPoint x="3088" y="2012" as="sourcePoint" />
+            <mxPoint x="3088" y="2080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-173" value="获取全量文件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2473" y="1149" width="127" height="23" as="geometry" />
+          <mxGeometry x="3097" y="2032" width="127" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
