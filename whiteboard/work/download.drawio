@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T03:04:28.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="hUrNXpIktAiWX87LPZGV" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T03:38:21.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="BMCm7_VeKwwGmSmGd_qq" version="22.1.11" type="github">
   <diagram name="第 1 页" id="ExTiOvINmQSWUFrJPMDl">
-    <mxGraphModel dx="1982" dy="769" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="2770" dy="1282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -728,6 +728,65 @@
         </mxCell>
         <mxCell id="SdTUQV1muve1M0gxpiIX-199" value="播放视频文件接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="777" y="3586" width="206" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-201" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="434.5" y="3833" width="892.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-202" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="469.5" y="3887" width="382" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-204" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="435" y="4117" width="897" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-205" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="4172" width="166" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-207" value="打开视频文件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="604.5" y="3905.5" width="123" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-221" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.579;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-209" target="SdTUQV1muve1M0gxpiIX-218">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770.2499999999995" y="4197.999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-209" value="字体包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="449.5" y="4184" width="180.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-210" value="web端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="469.5" y="3847" width="123" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-211" value="终端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="482" y="4126" width="123" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-213" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.054;entryY=-0.105;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;exitX=0.618;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="SdTUQV1muve1M0gxpiIX-218" source="SdTUQV1muve1M0gxpiIX-202">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="649.5" y="3986" as="sourcePoint" />
+            <mxPoint x="650.7300000000005" y="4073.385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-214" value="发送批注数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="702.5" y="4011" width="187.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-216" value="返回批注PDF" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1068.5" y="4013" width="183" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-218" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="675" y="4165" width="619" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-219" value="生成批注PDF接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="786.75" y="4178.5" width="271.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-224" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="890" y="3885" width="382" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-225" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.514;entryY=1;entryDx=0;entryDy=0;exitX=0.664;exitY=0.026;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="SdTUQV1muve1M0gxpiIX-218" target="SdTUQV1muve1M0gxpiIX-224">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1052" y="4032" as="sourcePoint" />
+            <mxPoint x="1102" y="3982" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdTUQV1muve1M0gxpiIX-226" value="合成批注PDF到原文件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="978" y="3905.5" width="232" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
