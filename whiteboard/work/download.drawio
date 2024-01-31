@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T09:25:50.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Vqcw1-oedka8NKa7E9IW" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T09:26:37.110Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="YH56lQorGd7r28NcmlD6" version="23.0.2" type="github">
   <diagram name="第 1 页" id="ExTiOvINmQSWUFrJPMDl">
-    <mxGraphModel dx="2840" dy="1460" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="2619" dy="1342" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1034,10 +1034,10 @@
         <mxCell id="06rFBcdBrPfOJO7cQMrO-12" value="安卓画板" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1173" y="3374" width="109" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="06rFBcdBrPfOJO7cQMrO-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.43;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="06rFBcdBrPfOJO7cQMrO-1">
+        <mxCell id="06rFBcdBrPfOJO7cQMrO-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.43;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1128.98" y="3422.27" as="sourcePoint" />
-            <mxPoint x="-1158" y="3422" as="targetPoint" />
+            <mxPoint x="-1137.6399999999999" y="3519" as="sourcePoint" />
+            <mxPoint x="-1138" y="3421" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="06rFBcdBrPfOJO7cQMrO-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.199;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
@@ -1045,6 +1045,9 @@
             <mxPoint x="-1104" y="3422" as="sourcePoint" />
             <mxPoint x="-1104" y="3520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="06rFBcdBrPfOJO7cQMrO-16" value="数据双向同步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1092" y="3453" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
