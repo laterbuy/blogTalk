@@ -1,9 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T09:06:48.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="23.1.7" etag="CJeS_nUEVniSpJYUsHUh" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-01T09:38:18.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="D5Xn9-BCf9M5k_aomiIQ" version="23.1.7" type="github">
   <diagram name="第 1 页" id="39DlvrzgdXzoxGcjGjSM">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2odETK_k33N__mNJyfiE-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="29.5" y="147" width="769" height="317" as="geometry" />
+        </mxCell>
+        <mxCell id="2odETK_k33N__mNJyfiE-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="59" y="286" width="707" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="2odETK_k33N__mNJyfiE-1" value="" style="rounded=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="147" y="367" width="538" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="2odETK_k33N__mNJyfiE-3" value="fabricjs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="153" y="299" width="521" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="2odETK_k33N__mNJyfiE-5" value="(fillRec，strokeRect，clearRect、beginPath()、closePath()、fill())" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="406" width="408" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2odETK_k33N__mNJyfiE-6" value="Html5 Canvas API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="335" y="374" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2odETK_k33N__mNJyfiE-8" value="Circle,Ellipse,Image,Text,Poline等图形，选中，拖拽，移动，缩放等" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="82" y="320" width="659" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2odETK_k33N__mNJyfiE-10" value="画布组件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="367" y="160" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2odETK_k33N__mNJyfiE-11" value="矩形" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="199" width="60" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="2odETK_k33N__mNJyfiE-12" value="圆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="143" y="199" width="60" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="2odETK_k33N__mNJyfiE-13" value="箭头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227" y="199" width="60" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="2odETK_k33N__mNJyfiE-14" value="直线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311" y="199" width="60" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="2odETK_k33N__mNJyfiE-15" value="激光笔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="199" width="60" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="2odETK_k33N__mNJyfiE-16" value="轨迹橡皮擦" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="479" y="199" width="77" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="2odETK_k33N__mNJyfiE-17" value="自由橡皮擦" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="199" width="87" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="2odETK_k33N__mNJyfiE-18" value="矩形" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="697" y="199" width="56" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="2odETK_k33N__mNJyfiE-19" value="单选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="169" y="241" width="56" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="2odETK_k33N__mNJyfiE-20" value="多选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="252" y="241" width="56" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="2odETK_k33N__mNJyfiE-21" value="展示人名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="241" width="66" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="2odETK_k33N__mNJyfiE-22" value="前进" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="428" y="241" width="66" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="2odETK_k33N__mNJyfiE-23" value="后退" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519" y="241" width="66" height="34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
